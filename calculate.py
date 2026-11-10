@@ -3,7 +3,7 @@ x = float(input("What's x? "))
 
 y = float(input("What's Y? "))
 
-z = round(x + y)
+z = round(x + y)//取整
 
 print(f"{z:,}")
 
